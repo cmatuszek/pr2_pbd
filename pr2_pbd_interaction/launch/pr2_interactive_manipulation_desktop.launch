@@ -12,7 +12,7 @@
 	<param name="rate" value="100.0" />
 
 	<!-- time before dropping a transform that has not been received in a while -->
-	<param name="expiration_time" value="5.0" />
+	<param name="expiration_time" value="100.0" />
     </node>
 
     <!-- rviz -->
